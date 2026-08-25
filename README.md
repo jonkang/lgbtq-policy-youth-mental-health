@@ -2,8 +2,8 @@
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Course: SI 618](https://img.shields.io/badge/Course-SI%20618%20Data%20Manipulation-blueviolet.svg)](https://www.si.umich.edu/)
-[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-MSI-00274C.svg)](https://umich.edu/)
+[![Course: SI 618](https://img.shields.io/badge/Course-SI%20618%20Data%20Manipulation%20and%20Analysis-blueviolet.svg)](https://www.si.umich.edu/)
+[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-MHI-00274C.svg)](https://umich.edu/)
 
 A geospatial data science and epidemiological study evaluating the association between state-level LGBTQIA+ legislative policy climates (protective vs. harmful policies) and mental health outcomes—specifically suicidal ideation—among sexual minority youth across the United States.
 
