@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets (>100MB)
+state_data/
+state_data/*.csv
+*.csv.zip
+*.tar.gz
+
+# HTML notebook exports
+*.html
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
